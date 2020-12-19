@@ -1,2 +1,2 @@
 # SimCLR
-Self-Supervised Learning
+A Simple Framework for Contrastive Learning of Visual Representations
